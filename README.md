@@ -55,7 +55,7 @@ These queries can be:
 
 ## Install
 
-Build and installation instructions are available in the [wiki](https://github.com/facebook/osquery/wiki/building-the-code).
+Build and Installation instructions are available in the [wiki](https://github.com/facebook/osquery/wiki/building-the-code).
 
 ## Learn more
 
